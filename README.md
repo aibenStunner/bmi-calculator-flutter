@@ -1,1 +1,1 @@
-# BMI Calculator ![Build Status]
+# BMI Calculator [![Build Status]]
