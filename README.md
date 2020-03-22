@@ -5,4 +5,4 @@
  <img src="https://img.shields.io/github/release/aibenStunner/bmi-calculator-flutter.svg" />
  </p>
 
-A BMI Calculator :zap:, built :hammer: using Flutter.
+A BMI Calculator:zap:,  built using Flutter:hammer:.
