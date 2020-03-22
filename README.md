@@ -1,1 +1,1 @@
-# # BMI Calculator [![Build Status](/bmi_calculator.svg?branch=master)]
+# BMI Calculator ![Build Status]
