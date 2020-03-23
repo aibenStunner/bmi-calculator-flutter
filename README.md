@@ -2,9 +2,6 @@
     BMI Calculator
 </h1>
   <p align="left">
- <img src="https://img.shields.io/github/release/aibenStunner/bmi-calculator-flutter.svg" />
- <img src="https://requires.io/github/aibenStunner/bmi-calculator-flutter/requirements.svg?branch=master"> 
- <img src="https://img.shields.io/snyk/vulnerabilities/github/bmi-calculator-flutter/bmi-calculator-flutter.svg">
  <img src="https://img.shields.io/github/languages/top/aibenStunner/bmi-calculator-flutter.svg">
  </p>
 
