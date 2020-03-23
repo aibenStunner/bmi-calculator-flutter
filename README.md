@@ -7,6 +7,9 @@
 
 A BMI Calculator:zap:,  built using Flutter:hammer:.
 
+## UI Implementation:
+![Implementation](ui.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
