@@ -1,7 +1,7 @@
 <h1 align="left">
     BMI Calculator
 </h1>
-  <p align="center">
+  <p align="left">
  <img src="https://img.shields.io/github/release/aibenStunner/bmi-calculator-flutter.svg" />
  </p>
 
