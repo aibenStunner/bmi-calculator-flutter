@@ -9,7 +9,7 @@ A BMI Calculator:zap:,  built using Flutter:hammer:.
 
 ## UI Implementation:
 <p align="center">
-<img src="ui.gif" width="260" height="520">
+<img src="untitled.gif" width="260" height="520">
 </p>
 
 ## Getting Started
